@@ -5,4 +5,12 @@ this is my file readme.txt and i am learning now cloning
 5th line fetch test
 6th line
 
+<<<<<<< HEAD
 7th line
+=======
+dthhtttt
+
+8th line
+
+9th line
+>>>>>>> feathere1234
